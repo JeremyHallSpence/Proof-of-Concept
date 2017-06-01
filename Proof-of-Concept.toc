@@ -1,0 +1,6 @@
+\contentsline {section}{Introduction}{1}
+\contentsline {section}{Modernisation Theory}{1}
+\contentsline {section}{Rational Choice Theory}{2}
+\contentsline {section}{Structural Functionalism}{3}
+\contentsline {section}{Conclusion}{4}
+\contentsline {section}{References}{6}
